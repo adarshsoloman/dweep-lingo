@@ -1,4 +1,4 @@
-# **architecture.md**
+# **DweepLingo - Offline English ↔ Hindi Translation MVP**
 
 > **DweepLingo — AI Core & System Architecture**
 > *Offline English ↔ Hindi Translation MVP*
