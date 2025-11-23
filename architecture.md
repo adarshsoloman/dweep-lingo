@@ -413,6 +413,3 @@ quantize_dynamic("model.onnx", "model.quant.onnx", weight_type=QuantType.QInt8)
 * AI4Bharat Indic NLP Resources
 
 ---
-
-
-This is a fully polished Markdown file — ready for GitHub.
